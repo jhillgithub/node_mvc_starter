@@ -6,7 +6,7 @@ Cookiecutter template for a Node MVC project using Sequelize, Express, Handlebar
 
 ```
 $ pip install cookiecutter
-$ cookiecutter https://github.com/jhillgithub/mvc_starter.git
+$ cookiecutter https://github.com/jhillgithub/node_mvc_starter
 $ ... (fill out the values you want)
 $ npm install
 
